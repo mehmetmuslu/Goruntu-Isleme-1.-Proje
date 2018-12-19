@@ -1,0 +1,42 @@
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csprojAssemblyReference.cache
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.Form1.resources
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.Properties.Resources.resources
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csproj.GenerateResource.cache
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\Led_Yakma.exe.config
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\Led_Yakma.exe
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\Led_Yakma.pdb
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Imaging.dll
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Video.dll
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.dll
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Math.dll
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Imaging.xml
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Video.xml
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.xml
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\bin\Debug\AForge.Math.xml
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csproj.CopyComplete
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.exe
+C:\Users\MEHMET MUSLU\Desktop\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.pdb
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\Led_Yakma.exe.config
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\Led_Yakma.exe
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\Led_Yakma.pdb
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.dll
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.Math.dll
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.Imaging.xml
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.Video.xml
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.xml
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\bin\Debug\AForge.Math.xml
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csprojAssemblyReference.cache
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.Form1.resources
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.Properties.Resources.resources
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csproj.GenerateResource.cache
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.csproj.CopyComplete
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.exe
+C:\Users\MEHMET MUSLU\Desktop\arduino ile led yakma\Led_Yakma\Led_Yakma\obj\Debug\Led_Yakma.pdb
